@@ -1,0 +1,109 @@
+{
+  "brand": {
+    "name": "BrightSmile Dental",
+    "accent": "#4FC3F7"
+  },
+  "layout": "Simple",
+  "sections": [
+    {
+      "type": "Hero",
+      "variant": "centered",
+      "headline": "Expert Dental Care, On Your Schedule",
+      "subheadline": "Book personalized dental services with a trusted freelance dentist. Convenient, professional care—right when you need it.",
+      "primaryCta": {
+        "label": "Book an Appointment",
+        "href": "/book"
+      },
+      "image": {
+        "kind": "url",
+        "name": "dentist-hero",
+        "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=800&q=80"
+      }
+    },
+    {
+      "type": "Features",
+      "items": [
+        {
+          "title": "Personalized Dental Care",
+          "desc": "Offer tailored treatment plans to meet each patient's unique dental needs and goals."
+        },
+        {
+          "title": "Flexible Appointment Scheduling",
+          "desc": "Easily book appointments online at times that fit your busy schedule."
+        },
+        {
+          "title": "Modern Dental Technology",
+          "desc": "Utilize the latest equipment and techniques for comfortable and efficient treatments."
+        },
+        {
+          "title": "Comprehensive Services",
+          "desc": "Provide a full range of dental services, from routine cleanings to advanced procedures."
+        },
+        {
+          "title": "Patient Education",
+          "desc": "Empower patients with clear information and guidance for optimal oral health."
+        }
+      ]
+    },
+    {
+      "type": "Testimonials",
+      "items": [
+        {
+          "name": "Sarah M.",
+          "quote": "Dr. Lee made me feel comfortable from the moment I walked in. My teeth have never looked better!"
+        },
+        {
+          "name": "James T.",
+          "quote": "Professional, friendly, and thorough. Highly recommend for anyone looking for a great dentist."
+        },
+        {
+          "name": "Emily R.",
+          "quote": "Booking was easy and the care I received was outstanding. I finally enjoy going to the dentist!"
+        }
+      ]
+    },
+    {
+      "type": "FAQ",
+      "items": [
+        {
+          "q": "What dental services do you offer?",
+          "a": "I provide a full range of dental services including cleanings, fillings, crowns, teeth whitening, and emergency dental care."
+        },
+        {
+          "q": "How do I book an appointment?",
+          "a": "You can easily book an appointment through the online booking form on my website or by contacting me directly via phone or email."
+        },
+        {
+          "q": "Do you accept insurance?",
+          "a": "Yes, I accept most major dental insurance plans. Please contact me with your insurance details to confirm coverage."
+        },
+        {
+          "q": "Where is your practice located?",
+          "a": "I offer flexible locations for your convenience, including in-office visits and at-home dental care within the local area."
+        },
+        {
+          "q": "What safety measures do you follow?",
+          "a": "I adhere to strict hygiene and sterilization protocols to ensure your safety and comfort during every visit."
+        }
+      ]
+    },
+    {
+      "type": "CTA",
+      "headline": "Ready to Book Your Dental Appointment?",
+      "cta": {
+        "label": "Schedule Now",
+        "href": "/contact"
+      }
+    },
+    {
+      "type": "LeadCapture",
+      "headline": "Start Your Smile Journey—Book a Free Consultation",
+      "placeholder": "Enter your email to get started",
+      "button": "Get Started"
+    },
+    {
+      "type": "Footer",
+      "note": "© 2024 Dr. [Your Name] Dentistry. All rights reserved. | Book your appointment today!"
+    }
+  ]
+}
